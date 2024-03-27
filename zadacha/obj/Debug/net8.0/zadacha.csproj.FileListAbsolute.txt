@@ -1,0 +1,14 @@
+C:\Milenski\Izpitvane 27.03\zadacha\bin\Debug\net8.0\zadacha.exe
+C:\Milenski\Izpitvane 27.03\zadacha\bin\Debug\net8.0\zadacha.deps.json
+C:\Milenski\Izpitvane 27.03\zadacha\bin\Debug\net8.0\zadacha.runtimeconfig.json
+C:\Milenski\Izpitvane 27.03\zadacha\bin\Debug\net8.0\zadacha.dll
+C:\Milenski\Izpitvane 27.03\zadacha\bin\Debug\net8.0\zadacha.pdb
+C:\Milenski\Izpitvane 27.03\zadacha\obj\Debug\net8.0\zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Milenski\Izpitvane 27.03\zadacha\obj\Debug\net8.0\zadacha.AssemblyInfoInputs.cache
+C:\Milenski\Izpitvane 27.03\zadacha\obj\Debug\net8.0\zadacha.AssemblyInfo.cs
+C:\Milenski\Izpitvane 27.03\zadacha\obj\Debug\net8.0\zadacha.csproj.CoreCompileInputs.cache
+C:\Milenski\Izpitvane 27.03\zadacha\obj\Debug\net8.0\zadacha.dll
+C:\Milenski\Izpitvane 27.03\zadacha\obj\Debug\net8.0\refint\zadacha.dll
+C:\Milenski\Izpitvane 27.03\zadacha\obj\Debug\net8.0\zadacha.pdb
+C:\Milenski\Izpitvane 27.03\zadacha\obj\Debug\net8.0\zadacha.genruntimeconfig.cache
+C:\Milenski\Izpitvane 27.03\zadacha\obj\Debug\net8.0\ref\zadacha.dll
